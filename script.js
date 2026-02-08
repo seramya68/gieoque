@@ -4,7 +4,7 @@ const rewards = [
     "GIẢM 20% TOÀN SHOP",           
     "FREESHIP & TẶNG QUÀ",          
     "GIẢM 25% SIÊU DEAL",           
-    "TẶNG 01 PIN TIỂU",             
+    "TẶNG 01 PIN CÀI",             
     "TẶNG BAO LÌ XÌ ĐỘC QUYỀN"      
 ];
 
@@ -146,4 +146,5 @@ window.onclick = function(event) {
         winSound.pause();
         bgMusic.volume = 0.5;
     }
+
 }
